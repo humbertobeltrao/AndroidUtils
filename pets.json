@@ -23,6 +23,22 @@
         "likes": ["mice"],
         "dislikes": ["cookies"]
       }
+    },
+    {
+      "name": "Tom",
+      "species" : "cat",
+      "foods": {
+        "likes": ["beef"],
+        "dislikes": ["cookies", "carrots"]
+      }
+    },
+    {
+      "name": "Spike",
+      "species" : "dog",
+      "foods": {
+        "likes": ["bones"],
+        "dislikes": ["vegetables"]
+      }
     }
   ]
 }
